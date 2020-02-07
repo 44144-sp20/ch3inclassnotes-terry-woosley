@@ -1,11 +1,15 @@
 /* External Style */
 body {
     font-family: Arial, Verdana, sans-serif;
+    background-color: #e6e6fa;
+    color: #191970;
 }
 h1 {
     font-family: Georgia, 'Times New Roman', serif;
     line-height: 200%;
     text-shadow: 3px 3px 5px #cccccc;
+    background-color: #191970;
+    color: #e6e6fa;
 }
 h2 {
     background-color: #aeaed4;
