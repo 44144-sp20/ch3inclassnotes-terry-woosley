@@ -33,3 +33,17 @@ footer {
     font-size: .75em;
     font-style: italic;
 }
+/* Class Selectors */
+.feature {
+    color: #c70000;
+}
+/* ID Selectors */
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+/* Descendant Selector */
+main a {
+    background-color: yellow;
+}
